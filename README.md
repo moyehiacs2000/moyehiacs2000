@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moyehiacs2000" alt="moyehiacs2000" /></a> </p>
 
-- 🔭 I’m currently **Mobile Developer intern at Sprint**
+- 🔭 I’m currently **Mobile Developer intern at Sprints**
 
 - 🌱 I’m currently learning **more about android native (java & kotlin).**
+
+- 🤔 I’m looking for a position as Android developer / software engineer.
+
+- 📖 i'm a lifelong learner 
 
 - 📫 How to reach me **mohamedyehia56170@gmail.com**
 
