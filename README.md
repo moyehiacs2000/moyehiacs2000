@@ -9,5 +9,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moyehiacs2000&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 ![trophy](https://github-profile-trophy.vercel.app/?username=moyehiacs2000&theme=gruvbox)
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
