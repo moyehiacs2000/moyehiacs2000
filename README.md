@@ -8,7 +8,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moyehiacs2000&theme=dark" width="49%" align=left/>
   <img src="https://github-readme-stats.vercel.app/api?username=moyehiacs2000&locale=en&theme=tokyonight&show_icons=true&line_height=25&border_radius=5" width="49%" />
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moyehiacs2000&theme=dark&show_icons=true&locale=en&layout=compact" alt="moyehiacs2000" /></p><br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moyehiacs2000&theme=dark&style=flat" alt="moyehiacs2000" /></p>
+
+<br/>
 - 🔭 I’m currently **Mobile Developer intern at Sprints**
 
 - 🌱 I’m currently learning **more about android native (java & kotlin).**
