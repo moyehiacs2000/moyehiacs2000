@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yehia</h1>
-<h3 align="center">Junior software engineer with a strong interest in mobile app development and Computer Science Graduate from Ain Shams University.</h3>
+<h3 align="center">Junior software engineer with a strong interest in mobile app development </h3> <br/>
+<h3 align="center"> Computer Science Graduate from Ain Shams University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moyehiacs2000&label=Profile%20views&color=0e75b6&style=flat" alt="moyehiacs2000" /> </p>
 
