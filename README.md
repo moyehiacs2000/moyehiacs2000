@@ -2,9 +2,9 @@
 <h3 align="center">Junior software engineer with a strong interest in mobile app development </h3>
 <h3 align="center"> Computer Science Graduate from Ain Shams University.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moyehiacs2000&label=Profile%20views&color=0e75b6&style=flat" alt="moyehiacs2000" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=moyehiacs2000&label=Profile%20views&color=0e75b6&style=flat" alt="moyehiacs2000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moyehiacs2000" alt="moyehiacs2000" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moyehiacs2000&column=7&theme=gruvbox&no-frame=true" width="98%" alt="moyehiacs2000" /></a> </p>
 
 - 🔭 I’m currently **Mobile Developer intern at Sprints**
 
