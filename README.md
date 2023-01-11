@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=moyehiacs2000&locale=en&theme=tokyonight&show_icons=true&line_height=25&border_radius=5" width="49%" />
 </div>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moyehiacs2000&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515" alt="moyehiacs2000" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=moyehiacs2000&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515" alt="moyehiacs2000" />
 <hr>
 - 🔭 I’m currently **Mobile Developer intern at Sprints**
 
