@@ -4,7 +4,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=moyehiacs2000&label=Profile%20views&color=0e75b6&style=flat" alt="moyehiacs2000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moyehiacs2000&column=7&theme=gruvbox&no-frame=true" width="98%" alt="moyehiacs2000" /></a> </p>
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moyehiacs2000&theme=dark" width="49%" align=left/>
+  <img src="https://github-readme-stats.vercel.app/api?username=moyehiacs2000&locale=en&theme=tokyonight&show_icons=true&line_height=25&border_radius=5" width="49%" />
+</div>
 
 - 🔭 I’m currently **Mobile Developer intern at Sprints**
 
@@ -22,6 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moyehiacs2000&show_icons=true&locale=en&layout=compact" alt="moyehiacs2000" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moyehiacs2000&show_icons=true&locale=en" alt="moyehiacs2000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moyehiacs2000&" alt="moyehiacs2000" /></p>
