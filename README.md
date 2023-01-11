@@ -10,7 +10,7 @@
 </div>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moyehiacs2000&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515" alt="moyehiacs2000" />
-
+<hr>
 - 🔭 I’m currently **Mobile Developer intern at Sprints**
 
 - 🌱 I’m currently learning **more about android native (java & kotlin).**
