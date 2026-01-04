@@ -1,35 +1,132 @@
-<h1 align="center">Hi 👋, I'm Mohamed Yehia</h1>
-<h3 align="center">Junior software engineer with a strong interest in mobile app development </h3>
-<h3 align="center"> Computer Science Graduate from Ain Shams University.</h3>
+# Hi 👋 I'm Mohamed Yehia
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=moyehiacs2000&label=Profile%20views&color=0e75b6&style=flat" alt="moyehiacs2000" /> </p>
+Senior .NET Software Engineer specializing in **high-performance backend systems, distributed architectures, and AI integration**.
 
-<div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moyehiacs2000&theme=dark" width="49%" align=left/>
-  <img src="https://github-readme-stats.vercel.app/api?username=moyehiacs2000&locale=en&theme=tokyonight&show_icons=true&line_height=25&border_radius=5" width="49%" />
-</div>
+🔹 3+ years experience in **C#, ASP.NET Core, gRPC, RabbitMQ**  
+🔹 Building **real-time, scalable microservices**  
+🔹 Integrating **AI/ML models** into production .NET systems  
+🔹 Passionate about clean architecture & performance optimization
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=moyehiacs2000&layout=compact&&title_color=FF2E63&text_color=57D1C9&bg_color=151515" alt="moyehiacs2000" />
-<hr>
-<h2 align = "left"> About Me</h2>
+## 🧠 Professional Summary
 
-🎓 Graduated from Faculty of Computer and Information Sciences - Ain Shams University.<BR>
-📌 (Computer Science Department - Grade: Very Good with Honor)<BR>
-🌍 Lives in Cairo, Egypt.<BR>
-  
-  
-### Contact with me:
+I am a Senior Software Engineer with hands-on experience designing and implementing 
+**distributed backend systems**, **real-time communication layers**, and **event-driven microservices**.
 
-[![gmail](https://user-images.githubusercontent.com/52586356/104854957-6ee95180-5912-11eb-975a-0c2670b33801.png)][1]
-[![linkedin](https://user-images.githubusercontent.com/52586356/104855029-f8008880-5912-11eb-8ed3-1071d96d9060.png)][2]
+My work focuses on:
+- gRPC-based bidirectional streaming
+- Reliable messaging with RabbitMQ
+- High-performance .NET services
+- Production-grade AI model integration
 
-[1]: mailto:mohamedyehia56170@gmail.com
-[2]: https://www.linkedin.com/in/mohamed-yehia-2a345a1a3
-  
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+I value **clean architecture, scalability, observability, and maintainability**.
 
 
+## 🛠 Tech Stack
+
+### Backend & Distributed Systems
+- C#, .NET, ASP.NET Core, Web API
+- Microservices Architecture
+- gRPC (Unary, Server & Bidirectional Streaming)
+- RabbitMQ (Pub/Sub, Retry, DLX)
+- Redis
+
+### Databases
+- SQL Server (Indexes, Stored Procedures, Performance Tuning)
+- Entity Framework Core, ADO.NET
+- SQLite, Firebase
+
+### AI & Computer Vision
+- YOLOv8
+- ONNX
+- Dataset annotation (LabelMe)
+- Model inference integration in .NET
+
+### Networking & Protocols
+- TCP / UDP
+- Modbus TCP
+- BLE
+
+### Desktop & UI
+- WPF
+- MVVM
+
+### DevOps & Tooling
+- Git, TFS
+- Docker, Kubernetes
+- Visual Studio, VS Code
+- CI/CD (basic pipelines)
+
+### Testing & Quality
+- xUnit, Moq
+- TDD
+- SOLID, Clean Architecture, Design Patterns
+
+## 🚀 Featured Projects
+
+### 🔹 Real-Time gRPC Communication Layer
+- Designed bidirectional gRPC streaming between services
+- Optimized latency and throughput compared to REST
+- Proper cancellation, backpressure, and error handling
+
+**Tech:** .NET, gRPC, Async Streams
+
+---
+
+### 🔹 Event-Driven Microservices with RabbitMQ
+- Implemented publisher/subscriber workflows
+- Retry policies & dead-letter exchanges
+- Reliable event propagation under failures
+
+**Tech:** RabbitMQ, ASP.NET Core, Docker
+
+---
+
+### 🔹 AI-Powered Inspection & Detection System
+- Integrated YOLOv8 inference into .NET services
+- Optimized model loading and concurrency
+- Used ONNX for deployment efficiency
+
+**Tech:** YOLOv8, ONNX, C#, WPF
+
+---
+
+### 🔹 Sensor Data Collection Platform
+- Collected real-time data from hardware via Modbus TCP & BLE
+- Streamed data to downstream services reliably
+- Ensured accuracy and fault tolerance
+
+**Tech:** TCP/IP, Modbus, .NET
 
 
+
+## 🏗 Engineering Principles
+
+- Clean Architecture & SOLID principles
+- Performance-driven design
+- Observability & logging
+- Async & concurrent programming
+- Fault-tolerant distributed systems
+
+## 💼 Experience Highlights
+
+- Designed gRPC-based real-time communication layers
+- Built resilient messaging systems using RabbitMQ
+- Integrated AI/ML inference models into production .NET services
+- Optimized SQL Server performance for large-scale data
+- Worked closely with frontend, QA, and DevOps teams
+
+## 🎓 Education & Achievements
+
+- B.Sc. Computer & Information Science — Ain Shams University  
+  **Grade:** Very Good with Honor
+
+🏆 Achievements:
+- 1st Rank – NLP Competition
+- 2nd Rank – AZ-Sencs Mobile Application Track
+- Google Hash Code Participant
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: https://linkedin.com/in/mohamedyehia
+- 💻 GitHub: https://github.com/moyehiacs2000
+- 📧 Email: mohamedyehia56170@gmail.com
