@@ -128,5 +128,4 @@ I value **clean architecture, scalability, observability, and maintainability**.
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: https://linkedin.com/in/mohamedyehia
-- 💻 GitHub: https://github.com/moyehiacs2000
 - 📧 Email: mohamedyehia56170@gmail.com
